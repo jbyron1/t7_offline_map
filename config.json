@@ -10,7 +10,7 @@
   "text": {
     "more": "This graph is a algorithm generated graph of Tekken 7 tournaments on start.gg\n. Each dot is a tournament, each line represents players that played in both tournament, the colors represent a community assigned by modularity. The placement is determined by a force directed placement algorithm",
     "intro": "Graph of offline Tekken tournaments played on start.gg this year",
-    "title": "Offline Strive 2022"
+    "title": "Offline Tekken 2022"
   },
   "legend": {
     "edgeLabel": "Player",
